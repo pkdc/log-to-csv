@@ -2,7 +2,7 @@
 Extract useful information from a log file, and print it to CSV files
 
 This is the code for the final assignment of the course "Using Python to Interact with the Operating System" offered by Google through Coursera.
-Unlike previous assignments, there were minimal guidance from the Instructor on this assignment. The log file is provided by the instructor.
+The log file is provided by the instructor.
 
 Input:
 syslog.log (put it in the same directory as the .py file)
